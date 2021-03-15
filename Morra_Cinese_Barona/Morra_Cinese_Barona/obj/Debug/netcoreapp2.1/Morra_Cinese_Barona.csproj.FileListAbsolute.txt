@@ -1,0 +1,11 @@
+C:\Users\gmarc\OneDrive\Documenti\GitHub\Morra_cinese_barona\Morra_Cinese_Barona\Morra_Cinese_Barona\bin\Debug\netcoreapp2.1\Morra_Cinese_Barona.deps.json
+C:\Users\gmarc\OneDrive\Documenti\GitHub\Morra_cinese_barona\Morra_Cinese_Barona\Morra_Cinese_Barona\bin\Debug\netcoreapp2.1\Morra_Cinese_Barona.runtimeconfig.json
+C:\Users\gmarc\OneDrive\Documenti\GitHub\Morra_cinese_barona\Morra_Cinese_Barona\Morra_Cinese_Barona\bin\Debug\netcoreapp2.1\Morra_Cinese_Barona.runtimeconfig.dev.json
+C:\Users\gmarc\OneDrive\Documenti\GitHub\Morra_cinese_barona\Morra_Cinese_Barona\Morra_Cinese_Barona\bin\Debug\netcoreapp2.1\Morra_Cinese_Barona.dll
+C:\Users\gmarc\OneDrive\Documenti\GitHub\Morra_cinese_barona\Morra_Cinese_Barona\Morra_Cinese_Barona\bin\Debug\netcoreapp2.1\Morra_Cinese_Barona.pdb
+C:\Users\gmarc\OneDrive\Documenti\GitHub\Morra_cinese_barona\Morra_Cinese_Barona\Morra_Cinese_Barona\obj\Debug\netcoreapp2.1\Morra_Cinese_Barona.csprojAssemblyReference.cache
+C:\Users\gmarc\OneDrive\Documenti\GitHub\Morra_cinese_barona\Morra_Cinese_Barona\Morra_Cinese_Barona\obj\Debug\netcoreapp2.1\Morra_Cinese_Barona.csproj.CoreCompileInputs.cache
+C:\Users\gmarc\OneDrive\Documenti\GitHub\Morra_cinese_barona\Morra_Cinese_Barona\Morra_Cinese_Barona\obj\Debug\netcoreapp2.1\Morra_Cinese_Barona.AssemblyInfoInputs.cache
+C:\Users\gmarc\OneDrive\Documenti\GitHub\Morra_cinese_barona\Morra_Cinese_Barona\Morra_Cinese_Barona\obj\Debug\netcoreapp2.1\Morra_Cinese_Barona.AssemblyInfo.cs
+C:\Users\gmarc\OneDrive\Documenti\GitHub\Morra_cinese_barona\Morra_Cinese_Barona\Morra_Cinese_Barona\obj\Debug\netcoreapp2.1\Morra_Cinese_Barona.dll
+C:\Users\gmarc\OneDrive\Documenti\GitHub\Morra_cinese_barona\Morra_Cinese_Barona\Morra_Cinese_Barona\obj\Debug\netcoreapp2.1\Morra_Cinese_Barona.pdb
